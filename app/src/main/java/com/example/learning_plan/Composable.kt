@@ -203,7 +203,7 @@ fun Learning_Plate() {
         Column (
             modifier = Modifier.fillMaxSize(),
             horizontalAlignment = Alignment.CenterHorizontally,
-            verticalArrangement = Arrangement.Center
+            verticalArrangement = Arrangement.Top
         ){
             Button(onClick = {},
                 modifier = Modifier.padding(8.dp),
